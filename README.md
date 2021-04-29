@@ -16,8 +16,8 @@
 
 ## Get in touch:
 
-- ✨ [Personal Web Page](www.linkedin.com/in/daniel-mendoza-developer)
-- ✨ [Linkedin](www.linkedin.com/in/daniel-mendoza-developer)
+- ✨ [Personal Web Page](https://darudev.dev/portfolio)
+- ✨ [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
 - ✨ [Twitter](https://twitter.com/Darudev)
 
 <div style="width:100%; height:30px; background-image: linear-gradient(to right top, #0c2b59, #005f96, #0094a3, #00c677, #a8eb12);"></div>
