@@ -7,6 +7,7 @@
 - React js
 - Styled Components
 - Redux
+- Jest
 
 ![separator](./separator.png)
 
