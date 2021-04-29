@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Danieruone/Danieruone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on becoming a great front end developer
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm improving my github profile and working on personal projects every day:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danieruone&show_icons=true&theme=dark)
+
+&nbsp;
+
+As a front end, I'm focused on this technologies:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danieruone&exclude_repo=jumper-fox,Danieruone.github.io&theme=dark)](https://github.com/Danieruone/github-readme-stats)
