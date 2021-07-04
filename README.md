@@ -20,5 +20,3 @@ I’m currently working on becoming a great front end developer
 - 💻 [Website](https://darudev.dev/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
 - ✏ [Twitter](https://twitter.com/Darudev)
-
-![separator](./separator.png)
