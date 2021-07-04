@@ -4,10 +4,10 @@ I’m currently working on becoming a great front end developer
 
 ### Tech Stack:
 
-- React js ⚛
-- Styled Components 💅
-- Redux ⚛
-- Jest 🔬
+- React js
+- Styled Components
+- Redux
+- Jest
 
 ![separator](./separator.png)
 
