@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Daniel
 
-🔭 I’m currently working on becoming a great front end developer
+I’m currently working on becoming a great front end developer
 
 ## Tech Stack:
 
