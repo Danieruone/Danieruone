@@ -1,8 +1,8 @@
-## Hi there 👋 I'm Daniel
+# Hi there 👋 I'm Daniel
 
 I’m currently working on becoming a great front end developer
 
-## Tech Stack:
+### Tech Stack:
 
 - React js ⚛
 - Styled Components 💅
@@ -15,7 +15,7 @@ I’m currently working on becoming a great front end developer
 
 ![separator](./separator.png)
 
-## Get in touch:
+### Get in touch:
 
 - 💻 [Website](https://darudev.dev/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
