@@ -1,13 +1,13 @@
 ## Hi there 👋 I'm Daniel
 
-- 🔭 I’m currently working on becoming a great front end developer
+🔭 I’m currently working on becoming a great front end developer
 
 ## Tech Stack:
 
-- React js
-- Styled Components
-- Redux
-- Jest
+- React js ⚛
+- Styled Components 💅
+- Redux ⚛
+- Jest 🔬
 
 ![separator](./separator.png)
 
@@ -17,8 +17,8 @@
 
 ## Get in touch:
 
-- ✨ [Website](https://darudev.dev/portfolio)
-- ✨ [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
-- ✨ [Twitter](https://twitter.com/Darudev)
+- 💻 [Website](https://darudev.dev/portfolio)
+- 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
+- ✏ [Twitter](https://twitter.com/Darudev)
 
 ![separator](./separator.png)
