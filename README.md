@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Daniel
 
-I’m currently working on becoming a great front end developer
+I’m a front end developer with knowledge in back end. I like to learn about new technologies and improve my skills every day.
 
 ### Tech Stack:
 
