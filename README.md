@@ -17,6 +17,6 @@ I’m a front end developer with knowledge in back end. I like to learn about ne
 
 ### Get in touch:
 
-- 💻 [Website](https://my-portfolio-ten-delta.vercel.app/portfolio)
+- 💻 [Website](https://www.darudev.com/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
 - ✏ [Twitter](https://twitter.com/Darudev)
