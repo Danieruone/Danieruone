@@ -9,7 +9,7 @@ I’m a front end developer with knowledge in back end. I like to learn about ne
 - Redux
 - Jest
 
-Learning Vue 🌟
+Learning Vue 📋
 
 ![separator](./separator.png)
 
