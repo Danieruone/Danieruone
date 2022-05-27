@@ -5,9 +5,8 @@ I’m a software engineer focused on front end development. I like to learn abou
 ### Tech Stack:
 
 - React js
-- Styled Components
+- Next js
 - Redux
-- Jest
 
 Learning Vue 📋
 
