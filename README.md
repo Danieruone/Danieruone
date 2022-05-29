@@ -20,4 +20,3 @@ Learning Vue 📋
 
 - 💻 [Website](https://www.darudev.com/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
-- ✏ [Twitter](https://twitter.com/Darudev)
