@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Daniel
 
-I’m a software engineer focused on front end development. I like to learn about new technologies and improve my skills every day.
+I’m a software engineer focused on front-end development. Building the future in the web!
 
 ### Tech Stack:
 
