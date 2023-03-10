@@ -13,6 +13,4 @@ I’m a software engineer focused on front-end development. Building the future 
 - 💻 [Website](https://www.darudev.com/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
 
-<b>My GitHub Stats</b>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieruone&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieruone&layout=compact)](https://github.com/danieruone/github-readme-stats)
