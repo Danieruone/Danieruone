@@ -9,9 +9,8 @@ I'm a software engineer creating applications with the latest technologies. I li
 
 ### Get in touch:
 - 💻 [Website](https://www.darudev.com/portfolio)
-- 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
 
-<p align="center">
+<p>
   <a href="https://twitter.com/Darudev">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
