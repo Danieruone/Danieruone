@@ -9,6 +9,8 @@ I'm a software engineer creating applications with the latest technologies. I li
 - Next js
 - Redux
 
+ ![separator](./separator.png)
+
 ### Get in touch:
 - 💻 [Website](https://www.darudev.com/portfolio)
 - 💼 [Linkedin](https://www.linkedin.com/in/daniel-mendoza-developer)
