@@ -3,7 +3,7 @@
 I'm a software engineer creating applications with the latest technologies. I like to be constantly learning and contributing.
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,redux,react,nestjs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,redux,react,nestjs,git,nx)](https://skillicons.dev)
 
  ![separator](./separator.png)
 
