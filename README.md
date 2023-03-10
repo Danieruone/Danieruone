@@ -2,6 +2,8 @@
 
 I'm a software engineer creating applications with the latest technologies. I like to be constantly learning and contributing.
 
+ ![separator](./separator.png)
+
 ### Tech Stack:
 - React js
 - Next js
