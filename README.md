@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Daniel
+# Hi there! 👋 I'm Daniel
 
 I'm a software engineer creating applications with the latest technologies. I like to be constantly learning and contributing.
 
