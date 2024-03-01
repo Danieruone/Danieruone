@@ -20,5 +20,3 @@ I'm a software engineer creating applications with the latest technologies. I li
 </p>
 
  ![separator](./separator.png)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieruone&exclude_repo=jumper-fox,jobs-api,&layout=compact)](https://github.com/danieruone/github-readme-stats)
