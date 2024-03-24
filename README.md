@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Daniel
 
-I'm a software engineer focused on front end development. Currently learning flutter!
+I'm a software engineer focused on front end development with React and Next js. Currently learning flutter!
 
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,nestjs)](https://skillicons.dev)
