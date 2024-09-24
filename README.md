@@ -3,7 +3,7 @@
 I'm a software engineer focused on front end development and mobile development
 
 ### Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,flutter,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs)](https://skillicons.dev)
 
  ![separator](./separator.png)
 
