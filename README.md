@@ -8,7 +8,7 @@ I'm a software engineer focused on front end development and mobile development
  ![separator](./separator.png)
 
 ### Get in touch:
-- 💻 [Website](https://www.darudev.com/portfolio)
+- 💻 [Website](https://www.darudev.com)
 
 <p>
   <a href="https://twitter.com/Darudev">
