@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Daniel
 
-I'm a software engineer building web and mobile apps
+I'm a software engineer building web and mobile apps.
+
 
 ### Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nestjs)](https://skillicons.dev)
