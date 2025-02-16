@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Daniel
 
-I'm a software engineer building web and mobile apps
+I'm a passionate Software Engineer with 6 years of experience, primarily focused on frontend development with React and Next.js. Over the years, I’ve honed my skills in building scalable, high-performance applications, always aiming for clean and maintainable code.
+
+Lately, I've been expanding my expertise into backend development, working with NestJS and PostgreSQL to build robust full-stack solutions. I love solving complex problems, optimizing performance, and continuously learning new technologies.
 
 
 ### Tech Stack:
