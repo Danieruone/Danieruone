@@ -14,9 +14,6 @@ Lately, I've been expanding my expertise into backend development, working with 
 - 💻 [Website](https://www.darudev.com)
 
 <p>
-  <a href="https://twitter.com/Darudev">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
  <a href="https://www.linkedin.com/in/daniel-mendoza-developer">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
